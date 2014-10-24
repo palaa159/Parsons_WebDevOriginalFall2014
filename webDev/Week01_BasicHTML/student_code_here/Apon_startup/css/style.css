@@ -1,0 +1,27 @@
+/* Custom Navbar */
+
+nav {
+	height: 40px;
+}
+
+#hero-1 {
+	/*padding-bottom: 400px;*/
+	height: 400px;
+	margin: 0px;
+	background: url(../img/hero.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#hero-2 {
+	/*padding-bottom: 400px;*/
+	height: 400px;
+	margin: 0px;
+	/*padding: 10px;*/
+	/*padding: 0px 1px 0px 1px;*/
+}
+
+#hero-1-text {
+	text-align: center;
+	margin-top: 150px;
+}

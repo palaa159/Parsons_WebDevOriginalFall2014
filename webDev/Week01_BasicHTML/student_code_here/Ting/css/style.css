@@ -1,0 +1,23 @@
+/* Custom Navbar */
+.navbar-wrapper {
+	margin-top: 20px;
+}
+
+#hero-1{
+	height: 200px;
+	margin: 0;
+}
+#hero-2{
+	height: 200px;
+	margin: 0;
+}
+
+#hero-3{
+	height: 200px;
+	margin: 0;
+}
+
+#hero-1-txt{
+	text-align: center;
+	padding-top: 100px;
+}

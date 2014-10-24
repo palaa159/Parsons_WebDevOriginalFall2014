@@ -1,0 +1,71 @@
+
+
+/*media query for nav*/
+
+nav {
+	background: #3dfabb;
+	/*height: 20px;*/
+}
+
+.branding {
+	font-family: 'Lobster';
+	font-size: 1em; 
+}
+
+.inline-list {
+	text-align: right;
+}
+
+.inline-list li {
+	display: inline;
+	margin-right: 20px;
+}
+
+.inline-list li a:link, .inline-list li a:visited {
+	text-decoration: none;
+}
+
+.inline-list li a:hover {
+	text-decoration: underline;
+	/*font-weight: 900;*/
+}
+
+.myCarousel {
+	overflow: hidden;
+	height: 600px;
+	width: 100%;
+}
+
+.myCarousel div {
+	height: 550px;
+	background-size: cover !important;
+	background-position: 0px 0px !important;
+}
+
+.heroParagraph {
+	font-family: 'Lato', sans-serif;
+	font-weight: 800;
+	color: #fff;
+	text-align: center;
+	font-size: 4em;
+	line-height: 1em;
+	margin-top: 200px;
+	width: 100%;
+	/*background: #000;*/
+	background: rgba(0,0,0,0.25);
+	/*display: inline;*/
+}
+
+#image-parallax {
+	height: 200px;
+	width: 100%;
+	background: url(../img/parallax.jpg) no-repeat;
+	background-position: 0px -300px;
+	background-size: cover;
+}
+
+
+
+
+
+

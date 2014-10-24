@@ -1,0 +1,55 @@
+/* Custom Navbar */
+.navbar-wrapper {
+	margin-top: 20px;
+}
+#hero-1-text{
+
+	margin-top: 150px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+
+#hero-0{
+ height: 400px;
+ margin: 0px;
+}
+
+
+#hero-1{
+ height: 200px;
+ padding-left: 0px;
+ margin: 0px;
+}
+
+
+#hero-2{
+ height: 200px;
+	padding-left: 20px;
+	margin: 0px;
+}
+
+#hero-3{
+ height: 200px;
+	  padding-left: 20px;
+	  margin: 0;
+}
+#hero-4{
+ height: 200px;
+	padding-left: 20px;
+	margin: 0px;
+}
+
+nav {
+	color: white;
+    height:50px;
+	padding-left: 30px;
+}
+
+.row #row02{
+
+	padding:0;
+	margin: 0px;
+}
+

@@ -1,0 +1,36 @@
+
+
+/*media query for nav*/
+
+nav {
+	background: #3dfabb;
+	height: 20px;
+}
+
+.branding {
+	font-family: 'Lobster';
+	font-size: 1em; 
+}
+
+.inline-list {
+	text-align: right;
+}
+
+.inline-list li {
+	display: inline;
+	margin-right: 20px;
+}
+
+.inline-list li a:link, .inline-list li a:visited {
+	text-decoration: none;
+}
+
+.inline-list li a:hover {
+	text-decoration: underline;
+	/*font-weight: 900;*/
+}
+
+.myCarousel {
+	/*height: 500px;*/
+	width: 100%;
+}

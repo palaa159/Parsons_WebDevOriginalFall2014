@@ -1,0 +1,76 @@
+/*/* Custom Navbar */
+#logo{
+
+	height: 20%;
+	width:20%;
+	padding-left: 20%;
+}
+.nav ul {
+  list-style: none;
+  margin-top: -4%;
+  padding-left: 20%;
+  line-height: 1;
+  display: block;
+  text-align: center;
+}
+
+.nav ul li {
+  display: inline-block;
+  padding-right: 3%;
+  padding-left: 3%;
+  margin: 0;
+}
+
+.hero {
+	margin:0px;
+	width:100%;
+	height:48%;
+	margin:0px;
+}
+
+
+#discription{
+	margin-top: -1%;
+	background-color: #f6921e;
+	height:40%;
+	width:100%;
+
+}
+
+#discription p{
+	padding-left: 10%;
+	padding-right:10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	color: white;
+	font-size: 20px;
+	line-height: 33px;
+}
+
+
+#fbButton{
+
+	width:100%;
+	background-color: #f6921e;
+}
+
+#actButton {
+	width:100%;
+	margin-left:40%;
+	margin-right: 30%;
+	background-color: #f6921e;
+}
+
+#footer{
+
+	width:100%;
+	height:40%;
+
+}
+#footer img{
+
+	width:100%;
+	height:40%;
+	margin-right: auto;
+	margin-left:auto;
+}
